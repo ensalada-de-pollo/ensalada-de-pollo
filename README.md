@@ -1,11 +1,18 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
+
 ## Hi there 👋
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fensalada-de-pollo&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fensalada-de-pollo?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ### Get in Touch
 
 [![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://velog.io/@my_sql)
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensalada-de-pollo&layout=compact)](https://github.com/ensalada-de-pollo/github-readme-stats)
+
+![ensalada-de-pollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensalada-de-pollo1&show_icons=true&theme=gruvbox)
 
 <!--
 **ensalada-de-pollo/ensalada-de-pollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
