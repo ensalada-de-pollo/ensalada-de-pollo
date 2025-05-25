@@ -12,7 +12,7 @@
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensalada-de-pollo&layout=compact)](https://github.com/ensalada-de-pollo/github-readme-stats)
 
-![ensalada-de-pollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensalada-de-pollo1&show_icons=true&theme=gruvbox)
+![ensalada-de-pollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensalada-de-pollo&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **ensalada-de-pollo/ensalada-de-pollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
