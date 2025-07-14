@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 
-[![👻](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=👻&size=medium)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fensalada-de-pollo?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 ### Get in Touch
 
