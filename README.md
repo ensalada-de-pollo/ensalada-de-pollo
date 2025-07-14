@@ -7,7 +7,7 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=velog&link=https://zzsza.github.io/)](https://velog.io/@my_sql)
+[![Tech Blog Badge](http://img.shields.io/badge/velog-000000?style=flat-square&logo=velog&link=https://zzsza.github.io/)](https://velog.io/@my_sql)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensalada-de-pollo&layout=compact)](https://github.com/ensalada-de-pollo/github-readme-stats)
