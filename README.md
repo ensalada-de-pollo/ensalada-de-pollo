@@ -7,12 +7,12 @@
 
 ### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://velog.io/@my_sql)
+[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=velog&link=https://zzsza.github.io/)](https://velog.io/@my_sql)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ensalada-de-pollo&layout=compact)](https://github.com/ensalada-de-pollo/github-readme-stats)
 
-![ensalada-de-pollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensalada-de-pollo&count_private=true&show_icons=true&theme=radical)
+![ensalada-de-pollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensalada-de-pollo&count_private=true&show_icons=true&theme=gruvbox)
 
 <!--
 **ensalada-de-pollo/ensalada-de-pollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
