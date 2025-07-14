@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 
-[![✨](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=✨&size=small)](https://myhits.vercel.app)
+[![👻](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=👻&size=medium)](https://myhits.vercel.app)
 
 ### Get in Touch
 
